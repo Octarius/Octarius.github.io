@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-slate
-title: "CV"
-permalink: /CV/
----
 # CV
 1. 1
 2. 2
