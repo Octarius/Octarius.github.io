@@ -1,6 +1,8 @@
+---
 layout: page
 title: "CV"
 permalink: /CV/
+---
 # CV
 -1
 -2
