@@ -1,3 +1,6 @@
+---
+permalink: /CV/
+---
 ## [Home](/index)
 # CV
 1. 1
