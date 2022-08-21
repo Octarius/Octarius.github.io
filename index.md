@@ -3,7 +3,7 @@
 
 
 
-# [Online CV](octarius.github.io/CV)
+# [Online CV](/CV)
 
 
 
