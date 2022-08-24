@@ -1,5 +1,5 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: Lewis's homepage
-description: Everything about me
+title: Lewis Birkett
+description: Experienced IT Operations manager, with a focus on application support
